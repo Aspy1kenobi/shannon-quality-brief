@@ -1,0 +1,10 @@
+facility_id,short_name,facility_name,city,overall_star,mort_better,mort_worse,safety_better,safety_worse,readm_better,readm_worse,readm_measures_reported
+450571,Shannon,SHANNON MEDICAL CENTER,San Angelo,3,0,0,2,0,2,0,11
+450229,Hendrick,HENDRICK MEDICAL CENTER,Abilene,3,0,2,1,0,2,0,11
+450133,Midland Memorial,MIDLAND MEMORIAL HOSPITAL,Midland,1,0,4,1,0,0,2,8
+450132,Medical Center Hosp.,MEDICAL CENTER HOSPITAL,Odessa,3,0,0,2,0,0,1,8
+450661,Odessa Regional,ODESSA REGIONAL MEDICAL CENTER,Odessa,3,0,0,0,0,2,0,7
+450040,Covenant,COVENANT MEDICAL CENTER,Lubbock,3,0,1,2,0,2,0,8
+450686,UMC Lubbock,UNIVERSITY MEDICAL CENTER,Lubbock,2,0,1,3,0,0,1,10
+450209,Northwest Texas,NORTHWEST TEXAS HOSPITAL,Amarillo,3,0,0,1,0,1,0,8
+450231,BSA,BSA HOSPITAL,Amarillo,2,0,1,4,0,1,1,11
